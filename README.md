@@ -11,3 +11,7 @@ This project utilizes **Linear Regression** to predict house prices based on sur
 
 📜 **How to Use?**  
 Open the **notebook (`.ipynb`)** and follow along! It explains each step in detail, from data cleaning to model prediction.  
+
+🔍 **Check the Notebook & See the Outcome:**  
+You can view the complete notebook and results on **Kaggle** here:  
+👉 [**View on Kaggle**](https://www.kaggle.com/code/yassineaouni/linear-regression)  
